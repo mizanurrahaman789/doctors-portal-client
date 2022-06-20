@@ -1,0 +1,66 @@
+[
+      {
+            "name": "Teeth Orthodontics",
+            "slots": [
+                  "08.00 Am - 08.30 Am",
+                  "08.30 Am - 09.00 Am",
+                  "09.00 Am - 09.30 Am",
+                  "09.30 Am - 10.00 Am",
+                  "10.00 Am - 10.30 Am",
+                  "10.30 Am - 11.00 Am",
+                  "11.00 Am - 11.30 Am"
+            ]
+      },
+      {
+            "name": "Cosmetic Dentistry",
+            "slots": [
+                  "08.00 Am - 08.30 Am",
+                  "08.30 Am - 09.00 Am",
+                  "09.00 Am - 09.30 Am",
+                  "09.30 Am - 10.00 Am",
+                  "10.00 Am - 10.30 Am",
+                  "10.30 Am - 11.00 Am",
+                  "11.00 Am - 11.30 Am"
+            ]
+      },
+      {
+            "name": "Teeth Clearning",
+            "slots": []
+      },
+      {
+            "name": "Cavity Protection",
+            "slots": [
+                  "08.00 Am - 08.30 Am",
+                  "08.30 Am - 09.00 Am",
+                  "09.00 Am - 09.30 Am",
+                  "09.30 Am - 10.00 Am",
+                  "10.00 Am - 10.30 Am",
+                  "10.30 Am - 11.00 Am",
+                  "11.00 Am - 11.30 Am"
+            ]
+      },
+      {
+            "name": "Pediatric Dental",
+            "slots": [
+                  "08.00 Am - 08.30 Am",
+                  "08.30 Am - 09.00 Am",
+                  "09.00 Am - 09.30 Am",
+                  "09.30 Am - 10.00 Am",
+                  "10.00 Am - 10.30 Am",
+                  "10.30 Am - 11.00 Am",
+                  "11.00 Am - 11.30 Am"
+            ]
+      },
+      {
+            "name": "Oral Surgery",
+            "slots": [
+                  "08.00 Am - 08.30 Am",
+                  "08.30 Am - 09.00 Am",
+                  "09.00 Am - 09.30 Am",
+                  "09.30 Am - 10.00 Am",
+                  "10.00 Am - 10.30 Am",
+                  "10.30 Am - 11.00 Am",
+                  "11.00 Am - 11.30 Am"
+            ]
+      }
+]
